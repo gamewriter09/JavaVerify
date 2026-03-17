@@ -1,0 +1,6 @@
+name: JavaVerify
+version: 1.0
+main: com.akuma.verify.JavaVerify
+api-version: 1.21
+depend: [floodgate]
+description: Security for Java players, skipping Bedrock accounts.
